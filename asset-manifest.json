@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ristinolla/static/css/main.22941023.css",
+    "main.js": "/ristinolla/static/js/main.a5190d70.js",
+    "index.html": "/ristinolla/index.html",
+    "main.22941023.css.map": "/ristinolla/static/css/main.22941023.css.map",
+    "main.a5190d70.js.map": "/ristinolla/static/js/main.a5190d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.a5190d70.js"
+  ]
+}
